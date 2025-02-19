@@ -1,0 +1,13 @@
+body button{
+    background: linear-gradient(135deg,#FF56F7,#a0be30);
+    padding: 15px 30px;
+    border: none;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.8);
+    display: block;
+}
+body button:hover{
+    transform: scale(1.12);
+    background:linear-gradient(135deg,#4e044a,#79970b); 
+}
